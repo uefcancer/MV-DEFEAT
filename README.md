@@ -42,6 +42,17 @@ Training: 'python train.py --config_path ddsm_ipsilateral_config.yml'
 Evaluation: 'python evaluate.py'
 
 
+
+## Contact
+For any questions or further information, please contact hamid.behravan@uef.fi.
+
+License: CC BY-NC 4.0
+
+
+## Citation
+Please cite the following work:
+Gudhe, N. R., Mazen, S., Sund, R., Kosma, V. M., Behravan, H., & Mannermaa, A. (2024).  "A Multi-View Deep Evidential Learning Approach for Mammogram Density Classification," in IEEE Access, vol. 12, pp. 67889-67909, 2024, doi: 10.1109/ACCESS.2024.3399204. 
+
 ### Acknowledgement
 
 Part of the code is borrowed from https://github.com/hanmenghan/TMC
